@@ -21,6 +21,9 @@ I am a web developer studying in IIT Bhubaneswar, India. I love programming, pla
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
