@@ -11,13 +11,17 @@ I am a web developer studying in IIT Bhubaneswar, India. I love programming, pla
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning react
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: codewithsathya@gmail.com;
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: codewithsathya@gmail.com
 
 </br>
 
+📊 **This Week I Spent My Time On:**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
