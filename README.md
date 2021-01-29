@@ -5,6 +5,20 @@
 
 ### Glad to see you here!
 
+I am a web developer studying in IIT Bhubaneswar, India. I love programming, playing games and music.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning react
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: codewithsathya@gmail.com;
+
+</br>
+
+
 📈 **My GitHub Stats:**
 
 <p>
