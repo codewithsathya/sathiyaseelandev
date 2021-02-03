@@ -22,7 +22,8 @@ I am a web developer studying in IIT Bhubaneswar, India. I love programming, pla
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 mins          ████████████████████████▓   98.97 % 
+JavaScript   1 hr 24 mins    ████████████████████████▒   97.61 % 
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 <!--END_SECTION:waka-->
 
