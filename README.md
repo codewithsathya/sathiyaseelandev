@@ -1,20 +1,28 @@
-### Hi there, I'm Sathiya Seelan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=myselfsathya.myselfsathya)
+
+
+### <samp>&gt; Hi there, I'm <a href="https://codewithsathya.com" target="_blank">Sathiya Seelan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/myselfsathya)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=safari&logoColor=white)](https://codewithsathya.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/codewithsathiya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/myself_sathya/)
 
-### Glad to see you here!
+<br />
 
-I am a web developer studying in IIT Bhubaneswar, India. I love programming, playing games and music.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=codewithsathya.codewithsathya)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+I am a full-stack web developer studying in IIT Bhubaneswar, India. I love programming, reading tech blogs, playing games and listening music.
 
-**Talking about Personal Stuffs:**
+I am also a crypto enthusiast and I am interested in blockchain technology. I started investing in cryptocurrencies and did my projects related to crypto with the skills I had and those projects helped me while trading cryptocurrencies.
 
-- 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I’m currently learning react
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: codewithsathya@gmail.com
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="408" height="318" />
+
+😊 **Talking about Personal Stuffs:**
+
+- 🚀 I’m currently learning Data Structures and Algorithms on leetcode;
+- 🔥 I'm also learning nextjs;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: codewithsathya@gmail.com;
 
 </br>
 
@@ -29,12 +37,12 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myselfsathya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsathya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithsathya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsathya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!--
-**myselfsathya/myselfsathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codewithsathya/codewithsathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
