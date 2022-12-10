@@ -7,8 +7,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/codewithsathiya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/myself_sathya/)
 
-<br />
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=codewithsathya.codewithsathya)
 
 I am a full-stack web developer studying in IIT Bhubaneswar, India. I love programming, reading tech blogs, playing games and listening music.
