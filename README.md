@@ -27,9 +27,13 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+Java         5 hrs 26 mins   ████████████████▒░░░░░░░░   65.73 %
+C++          1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
+
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
