@@ -13,7 +13,7 @@ I am a full-stack web developer studying in IIT Bhubaneswar, India. I love progr
 
 I am also a crypto enthusiast and I am interested in blockchain technology. I started investing in cryptocurrencies and did my projects related to crypto with the skills I had and those projects helped me while trading cryptocurrencies.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="auto" />
 
 😊 **Talking about Personal Stuffs:**
 
