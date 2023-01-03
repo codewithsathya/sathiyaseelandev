@@ -29,7 +29,7 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```text
-Other   1 min           █████████████████████████   100.00 %
+YAML   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
