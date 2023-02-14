@@ -29,12 +29,12 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 53 mins    ██████████▓░░░░░░░░░░░░░░   42.36 %
-JavaScript   1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-C            49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Text         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-CMake        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python       3 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.28 %
+C            2 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
+JavaScript   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Text         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+CMake        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
