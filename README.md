@@ -29,10 +29,10 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```text
-C++    13 mins         ████████████▓░░░░░░░░░░░░   50.71 %
-JSON   13 mins         ████████████░░░░░░░░░░░░░   48.64 %
-INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Lua    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++     1 hr 35 mins    █████████████████▓░░░░░░░   70.45 %
+Text    26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+JSON    13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
