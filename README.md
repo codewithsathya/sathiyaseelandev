@@ -29,11 +29,11 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 46 mins   █████████████████████▒░░░   84.83 %
-JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Java         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript   4 hrs 12 mins   █████████████████████▓░░░   86.46 %
+JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+JavaScript   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
