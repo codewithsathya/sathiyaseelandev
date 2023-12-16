@@ -29,11 +29,11 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         8 hrs 55 mins   ███████████████▒░░░░░░░░░   60.77 %
-Bash         2 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Docker       1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Markdown     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Text         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+YAML         9 hrs 26 mins   ████████████████░░░░░░░░░   63.35 %
+Bash         3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Docker       1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Text         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
