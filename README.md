@@ -29,7 +29,8 @@ I am also a crypto enthusiast and I am interested in blockchain technology. I st
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   1 min           ███████████████████░░░░░░   75.63 %
+JSON   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.37 %
 ```
 
 <!--END_SECTION:waka-->
